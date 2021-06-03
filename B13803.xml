@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles concerning the yeelding of the cittie of Grenoble into the Kings obedience agreed vpon betweene the Lord Desdiguiers, and the committies of the countrey. Togither with the besieging and yeelding vp of Chartres. Faithfully translated out of the French coppie printed at Tours, by E.A.</title>
+            <title>Articles accordés sur le faict de la reddition de la ville de Grenoble. English.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13803</idno><idno type="EEBO-CITATION">99851757</idno>
+  <idno type="VID">176287</idno>
+  <idno type="EEBO-PROQUEST">2269047886</idno>
+  <idno type="STC">STC 12359</idno>
+  <idno type="STC">ESTC S116541</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99851757e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176287)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1307:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles concerning the yeelding of the cittie of Grenoble into the Kings obedience agreed vpon betweene the Lord Desdiguiers, and the committies of the countrey. Togither with the besieging and yeelding vp of Chartres. Faithfully translated out of the French coppie printed at Tours, by E.A.</title>
+                  <title>Articles accordés sur le faict de la reddition de la ville de Grenoble. English.</title>
+                  <author>Aggas, Edward.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Wolfe, and are to be solde at his shop right ouer against the great south doore of Paules,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1591.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation, by Edward Aggas, of: Articles accordés sur le faict de la reddition de la ville de Grenoble.</note>
+                  <note>"The besieging and yeelding vp of Chartres on the 19. day of Aprill. 1591" has caption title.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Slight print show-through.</note>
+                  <note>Reproduction of the original in the Peterborough Cathedral. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lesdiguiéres, François de Bonne, --  duc de, 1543-1626 --  Early works to 1800.</term>
+               <term type="geographic_name">France --  History --  Wars of the Huguenots, 1562-1598 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176287:1"/>
+            <pb facs="tcp:176287:1"/>
+            <p>ARTICLES Concerning the yeelding of the Cittie of Grenoble into the Kings obedience, agreed vpon betweene the Lord Desdiguiers, and the Commit<g ref="char:EOLhyphen"/>ties of the Countrey.</p>
+            <p>Togither with the besieging and yeel<g ref="char:EOLhyphen"/>ding vp of Chartres.</p>
+            <p>Faithfully translated out of the French Coppie Printed at Tours, by E. A.</p>
+            <figure>
+               <figDesc>printer's device depicting a fleur-de-lis seedling used by John Wolfe (1579-1601) (McKerrow 216)</figDesc>
+            </figure>
+            <p>LONDON <hi>Printed by</hi> Iohn Wolfe, <hi>and are to be solde at his shop right ouer against the great South doore of Paules.</hi> 1591.</p>
+         </div>
+      </front>
+      <body>
+         <div type="terms_of_surrender">
+            <pb facs="tcp:176287:2"/>
+            <pb facs="tcp:176287:2"/>
+            <head>Articles agreed vpon concerning the yeelding of the City of Grenoble into the Kings obedience, betweene the L. <hi>Desdiguiers,</hi> one of the Kings priuie Counsel and of Estate, Captaine of a hundred men at Armes, of his ordinaunces, and Ge<g ref="char:EOLhyphen"/>nerall of the army leuied for his Maiesties seruice in the land of Daulphiny on the one parte, and the Coun<g ref="char:EOLhyphen"/>sellors of the Court of Parliament, the Committies of the countie and the Consuls of the same.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the exercise of the Catholike Apostolike and Romish religion shal remaine frée with<g ref="char:EOLhyphen"/>in the said towne and the suburbes thereof, as hitherto it hath done, without innouation or alteration, and the clergie both of the towne &amp; prouince be restored and preserued in their priuiledge and libertie, with ful possession and enioying of al and euery their goodes in anie place wheresoeuer vnder the Kings protection and safegard, who shall be requested to graunt them a particular declaration thereof in good forme, if néede so require.</p>
+            <p>That the frée exercise of the reformed Religion may also be publikely vsed and celebrated within <hi>Trescloistre</hi> suburbes, in such conuenient place as shall be found méete, wherein the pro<g ref="char:EOLhyphen"/>fessors of the said religion shall not be any way troubled or mo<g ref="char:EOLhyphen"/>lested, attending the Kings good pleasure concerning the same.</p>
+            <p>That al dwellers and inhabitants in the same towne, that wil continue therein, shal personally protest to acknowledge <hi>Henry</hi> the fourth King of <hi>France</hi> and <hi>Nauarre</hi> for their So<g ref="char:EOLhyphen"/>ueraigne, and yéelde to him the oath of fidelitie in like cases re<g ref="char:EOLhyphen"/>quisite in the handes of the Lord of saint <hi>Andrews</hi> President of the Court of Parliament, and <hi>Chastellard</hi> Counsellour of the same Court in the presence of the Lordes of <hi>Blaymeu</hi> and <hi>Cal<g ref="char:EOLhyphen"/>lignon:</hi> and vpon the said oath taken, the said inhabitants shal be maintained, and so farre as néede require, restored to the full
+<pb facs="tcp:176287:3"/> and peaceable enioying of all their goods, moueable and immo<g ref="char:EOLhyphen"/>uable, offices, dignities and priuiledges, either general or parti<g ref="char:EOLhyphen"/>cular.</p>
+            <p>That if any, whether Cleargie men, Officers, Gentlemen, Captaines, Souldiors or other whosoeuer nowe of the garrison of the same be loath to take the said oath, and therefore are de<g ref="char:EOLhyphen"/>sirous to depart else where, the same shal haue a passeport deli<g ref="char:EOLhyphen"/>uered them with safe conduct sufficient if néede so require, safelie to conduct them to their houses or fieldes, or to any other place where they shal thinke good within the realme or without.</p>
+            <p>That all such as will absent themselues from the said towne and retire else whither as is aforesaide, shal notwithstanding quietly and fréely enioy al their goods moueable or immouable, together with their offices and dignities, either by the sale of the said goods or offices, or by receiuing the fruits or stipend there<g ref="char:EOLhyphen"/>of at their choice, whither soeuer they goe. Alwayes prouided, and with condition, that they enterprize nothing against his maiesties seruice.</p>
+            <p>That the custody and gouernement of the saide towne shall be referred to his Maiesties good pleasure, who shal be requested to prouide it of such a gouernour, and so sufficient a garrison as he shall thinke méete for the good of his owne seruice, and the preseruation of the towne.</p>
+            <p>That in the meane time in as much as the Lord of <hi>Arbucy</hi> hitherto gouernour of the saide towne, vpon sundry particular considerations can not as yet resolue to take the saide oath of fi<g ref="char:EOLhyphen"/>delitie aforementioned, the said place shall remaine vnder the gouernment and guiding of the Lorde of <hi>Roche-giron</hi> wyth such number and company as shall be thought conuenient: and the said Lord of <hi>Arbucy</hi> shal haue thrée moneths respite to re<g ref="char:EOLhyphen"/>solue vpon the said oath, and taking it, in consideration thereof his Maiestie shallbe requested againe to grant vnto him the go<g ref="char:EOLhyphen"/>uernement of the same towne.</p>
+            <p>That by vertue of this treaty the said Lord of <hi>Arbucy,</hi> as also the officers of the Court, together with al such as hitherto haue executed the offices of Commissioners or procurer of the said Country, and generally al the dwellers and inhabitants,
+<pb facs="tcp:176287:3"/> Captaines and Souldiours being in the towne, of whatsoeuer condition or calling, shal stand discharged and acquited of and for al leauies and impostes of coine, bearing of armes, treaties, and practises, euen with forreiners and any other actes of hosti<g ref="char:EOLhyphen"/>litie. And his Maiestie shall be requested to graunt them all necessary prouisoes for the same, which the saide Lord <hi>Desdi<g ref="char:EOLhyphen"/>guiers</hi> hath vndertaken within two moneths to deliuer vnto them.</p>
+            <p>That the memorie of all thinges past on either side from or since the beginning of these troubles, or vppon occasion of the same shal rest extinct and quenched, as matter not happened: neither shal it be lawful for any man publike or priuate, at or for any time, or vpon anie occasion whatsoeuer by anie meanes to enter-search, mention, processe or pursuit of the same.</p>
+            <p>That the saide Lorde <hi>Desdiguires</hi> and other the principall Gentlemen in the army haue promised by themselues or by their meanes neuer to reuiue the memorie thereof, neither to find themselues grieued thereat, vpon anie quarrel or pretence whatsoeuer. And al other vnto whome it may in any wise ap<g ref="char:EOLhyphen"/>pertaine shal be forbidden to argue, quarrel, or otherwise minde the same, so that al his Maiesties subiectes of <hi>Daulphine</hi> shal liue togither in peace as brethren, friendes, and fellowe Citti<g ref="char:EOLhyphen"/>zens, vnder paine that all transgressours herein shall be puni<g ref="char:EOLhyphen"/>shed as breakers of the peace, and disturbers of the publique quiet.</p>
+            <p>That for a more perfect vnion of the heartes and mindes of his Maiesties subiects, and a stedfast establishment of the obedi<g ref="char:EOLhyphen"/>ence vnto him due, the Lordes of the Court of Parliament, chamber of accounts and other the officers as yet resident at <hi>Rouan</hi> or elsewhere throughout the prouince, shal with al con<g ref="char:EOLhyphen"/>uenient spéede returne to <hi>Grenoble,</hi> there to follow and conti<g ref="char:EOLhyphen"/>nue their charges, according as they shall be required by the Lords and Gentlemen in the army all vnder his Maiesties good pleasure, who shal be requested to agrée thereunto, notwith<g ref="char:EOLhyphen"/>standing his Letters patents for the translation of the same, to<g ref="char:EOLhyphen"/>gither with the decrées that thereupon haue insued.</p>
+            <p>That within these two moneths there shall be summoned a
+<pb facs="tcp:176287:4"/> general assembly of the Estats after the maner accustomed, for the hasting of the meanes to discharge and reléeue the people, and establish the common body of this Countrey.</p>
+            <closer>
+               <dateline>Made and agréed, with the Kings good pleasure at Saint <hi>Laurence</hi> of <hi>Grenoble.</hi>
+                  <date>December. 22. 1590.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account_of_the_siege_and_surrender_of_Chartres">
+            <head>The besieging and yeelding vp of Chartres on the 19. day of Aprill. 1591.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is no man of vnderstanding but he must confes the great clemencie of the king, how hée had rather win his rebellious people by mercie then by rigour, as by the Chartraines may be séene, whose obstinat harts would not acknow<g ref="char:EOLhyphen"/>ledge his M. for their soueraigne, but withstood him to the vttermost of their might, threatning, and breathing out most vnnaturall spéeches against him at the late séege of <hi>Chartres,</hi> insomuch that his Highnesse was inforced to plant his ordinance against the towne, and to make a sharpe assault vpon them which they indured vntil their walles were battered and broken downe, and that they saw it was in vaine to with<g ref="char:EOLhyphen"/>stand the king any longer, wherefore the chiefe of the citty con<g ref="char:EOLhyphen"/>sented to yéelde it vp to his grace. Whose good intent when dy<g ref="char:EOLhyphen"/>uers other of the Leaguers vnderstood, they were greatly dis<g ref="char:EOLhyphen"/>pleased therewith, and threatned the other that they woulde make them repent that euer they determined the same: where<g ref="char:EOLhyphen"/>vpon those discontented persons were set, and constrained them selues to indure the fight, which was so sharpe, that presentlie they likewise were glad to giue ouer, and with the rest to sub<g ref="char:EOLhyphen"/>mit themselues without further disputation, saying, that they
+<pb facs="tcp:176287:4"/> perceiued that the cursed league did nothing but séeke the coun<g ref="char:EOLhyphen"/>tries ruine and destruction, wherfore they purposed to acknow<g ref="char:EOLhyphen"/>ledge him their onely king and soueraigne, against whome they had bin such vnnaturall rebels, and thereupon sent to his High<g ref="char:EOLhyphen"/>nes for pardon, yéelding themselues and the citty to his mercie. His Highnes granted their petition, and he with his Princes prepared to enter the towne. On the <hi>19.</hi> day of Aprill the cit<g ref="char:EOLhyphen"/>tizens each one in their degrée attended his maiesties comming, who was so good and gratious vnto them: and they with the Magistrates of the towne and the whole Cleargy fel downe on their knees before their king, crying with one accord, God saue Henry of Bourbon our mercifull and gratious king, long may he liue the noble king of France. The citizens first leading the way, the magistrates followed them, each one according to his place, and the whole cleargy next, euery one attired according to his calling. And all the way as the king and his princes rode, the people stil cryed, <hi>Long liue Henry of Bourbon king of France and Nauarre.</hi> Then with great reuerence and humilitie they swore themselues to continue his faythful subiects for euer. The K. noting their great humility, and perceiuing their sorrow for their passed rebellion, most graciously receiued them into fauor, and pardoned their offences committed against him. Then were the keyes of the cittie deliuered vnto him, which the king tooke with an amiable countenaunce, and so with his princes and no<g ref="char:EOLhyphen"/>bles passed in most triumphant sort to his lodging.</p>
+            <div type="part">
+               <head>Aduertisements sent to the King.</head>
+               <p>THe King was aduertised out of <hi>Prouance</hi> that the Lorde <hi>Dampuis</hi> Lieutenant vnto the Duke of <hi>Sauoy,</hi> and in his name generall of the saide <hi>Prouance</hi> had wrought a prac<g ref="char:EOLhyphen"/>tise against the citie of <hi>Tarascon,</hi> which he was in hope to sur<g ref="char:EOLhyphen"/>prize by the meanes of foure Iacobins, and thirty or fortie other
+<pb facs="tcp:176287:5"/> inhabitants of the towne, who should haue seized vpon one of the gates thereof, which practise, a little before the appointed time of execution, through the great diligence and good order v<g ref="char:EOLhyphen"/>sed by the Lady of <hi>Oruano,</hi> and one Captaine <hi>Corses,</hi> who lay in garrison in the said towne was discouered. Also that the gouernour giuing the watch-word which the said Iacobins had promised, which was thrée toles of a bell about midnight, to cal in the ennemy, the said Lorde of <hi>Dampuis</hi> came vnto the gate where he should haue entred with fiue hundred cuyrases and as many harquebuziers, where he was so welcomed with harque<g ref="char:EOLhyphen"/>buze shot, that himselfe remained prisoner and wounded, and within thrée daies after died of his hurts, and many other slaine or taken. The Iacobins also and other traitors were apprehen<g ref="char:EOLhyphen"/>ded and committed to prison.</p>
+               <p>The County of <hi>Carces</hi> had wrought an other practise also against the towne of <hi>Tholon,</hi> with the chiefe Consull and o<g ref="char:EOLhyphen"/>ther townesmen, which was likewise discouered, and most of the traitors apprehended.</p>
+               <p>The duke of <hi>Sauoy</hi> buildeth a Citadell in the towne of <hi>Aix</hi> in <hi>Prouance,</hi> whereupon all the nobilitie of the Countrie haue forsaken him, and no other of the townes will receiue any gar<g ref="char:EOLhyphen"/>rison to his behoofe.</p>
+               <p>The inhabitants of <hi>Marseils</hi> do stand vpon their guard, and haue set vp his Maiesties armes ouer their towne gates.</p>
+               <p>Within these few dayes the Lorde <hi>Desdiguires</hi> hath defea<g ref="char:EOLhyphen"/>ted foure or fiue hundred Neapolitans with their Colonell néere to the fort of <hi>Boue.</hi>
+               </p>
+               <p>President <hi>Ianin</hi> passing toward <hi>Spaine</hi> is slaine.</p>
+               <p>The Lorde of Saint <hi>Vidal</hi> one of the best captaines of the leaguers is also slaine.</p>
+               <p>The L. of <hi>Chastillon</hi> with the power of <hi>Berry</hi> and <hi>Bour<g ref="char:EOLhyphen"/>bon</hi> did a while pursue the Lorde of <hi>Chastre,</hi> so to kéepe him from wasting the landes of <hi>Berry</hi> and <hi>Nyuernois,</hi> and in the end followed him so hard, that he was forced to get into the bo<g ref="char:EOLhyphen"/>rough of <hi>Chasteaunuef,</hi> where the said Lord of <hi>Chastillon</hi> be<g ref="char:EOLhyphen"/>siegeth him, being in hope to take him: either if he misse of his person, yet to get foure Canons which he hath.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176287:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
